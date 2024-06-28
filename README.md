@@ -1,0 +1,1 @@
+# practices  about full stack
